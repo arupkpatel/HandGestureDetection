@@ -1,4 +1,4 @@
-# HandGestureDetection
+# Hand Gesture Detection
 The objective of this project is to identify hand gestures and open specific program assigned to each hand gesture. This project was done using "Deep Learning and Neural Networks". We have used convolutional neural network for this project as they are good for image classification.
 
 We have used Opencv and Keras which is an open source neural network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit or Theano.
@@ -11,3 +11,19 @@ We got desired output as notepad was opening when one finger was shown and calcu
 
 Note: This project is done by team 'Exzodia' of SRM Institute of Science and Technology, Vadaplanai. This team was formed by me
 and 2 of my friends Visha Bharthy and Abhishek Nath.
+
+# Original Pic:
+![Orginalpic](https://github.com/arupkpatel/HandGestureDetection/blob/master/originalpic.JPG)
+
+# RGB to HSV:
+![RGB2HSV](https://github.com/arupkpatel/HandGestureDetection/blob/master/rgb2hsv.JPG)
+
+# Mask:
+![mask](https://github.com/arupkpatel/HandGestureDetection/blob/master/mask.JPG)
+
+# Skin_Extraction:
+![Skin_Extraction](https://github.com/arupkpatel/HandGestureDetection/blob/master/skinextracted.JPG)
+
+# Results:
+![OP1](https://github.com/arupkpatel/HandGestureDetection/blob/master/op1.JPG)
+![OP2](https://github.com/arupkpatel/HandGestureDetection/blob/master/op2.JPG)
