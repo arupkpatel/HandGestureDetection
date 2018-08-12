@@ -5,9 +5,7 @@ We have used Opencv and Keras which is an open source neural network library wri
 
 We have used 3 convolutional layers, 2 dropout layers, 2 maxpooling layer and 1 hidden layer with sigmoid activation funtion and adam as optimiser function. We have also used 'ImageDataGenerator' to increase the number of dataset by manipulating the images.
 
-For this project, we have create our own dataset using a python script and a webcam. Then we created a filter to extract only the hand region
-from the images, this was done by converting the images form RGB to HSV and then creating a mask for identifying the human skin. Then the images 
-was resized 48x48 and coverted to Grayscale.
+For this project, we have create our own dataset using a python script and a webcam. Then we created a filter to extract only the hand region from the images, this was done by converting the images form RGB to HSV and then creating a mask for identifying the human skin. Then the images was resized 48x48 and coverted to Grayscale.The dataset can be found at https://drive.google.com/open?id=1oSpLgBYzCJF5gnHgL4nmpOJs0XXESq9W.
 
 We got desired output as notepad was opening when one finger was shown and calculater when 2 finger was shown.
 
